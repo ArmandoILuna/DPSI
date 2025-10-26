@@ -1,0 +1,35 @@
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# PHP
+vendor/
+composer.lock
+
+# Logs
+*.log
+logs/
+
+# Backup files
+*.bak
+*.backup
+*.sql.backup
+
+# Configuration (local overrides)
+config/local.php
+
+# Temporary files
+tmp/
+temp/
+cache/
+
+# Environment
+.env
+.env.local
